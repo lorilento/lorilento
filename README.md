@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lorilento
+- 👀 I’m interested in Linux and Open Source software
+- 🌱 I’m currently studying Computer and Network Security at University of Milan
